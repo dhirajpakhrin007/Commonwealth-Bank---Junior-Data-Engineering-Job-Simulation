@@ -47,11 +47,3 @@ Task 4: Design the structure of information in a database
 Key Skills Gained:
 
 Statistics, Ms Excel, Data Privacy, Database Design, Data Analysis, Database Documentation, Data Architecture
-
-
-
-These simulations helped me sharpen both my technical and business problem-solving skills. I'm open to opportunities in data science and analytics, and free to connect with data professionals.
-
-
-
-Copied from: (1) Feed | LinkedIn - <https://www.linkedin.com/feed/>
